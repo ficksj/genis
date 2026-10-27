@@ -1,0 +1,6 @@
+mediapipe>=1.1.0
+opencv-contrib-python>=4.10
+PySide6>=6.8
+pynput>=1.7.7
+numpy>=2.0
+pygrabber>=0.2
